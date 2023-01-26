@@ -1,6 +1,7 @@
 Olá Bem vindo! 👋
 
 ![GabAraujj GitHub stats](https://github-readme-stats.vercel.app/api?username=gabaraujj&theme=gotham&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 
 Um pouco sobre mim:
