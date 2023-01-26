@@ -10,6 +10,12 @@ Um pouco sobre mim:
   <li>🎮🕹 Gosto de jogar</li>
   <li>🎧 Ouvir Rock, eletro, pop</li>
   <li>💻 Codifico mais no notebook e por isso consigo escrever em quase todo lugar que vou</li>
-<li>💻 Goste de criar páginas visualmente bonitas e sou bem chato com isso🎃</li>
-<li>😋😁😎 Minhas linguagens são CSS,HTML E JS</li>
+  <li>💻 Goste de criar páginas visualmente bonitas e sou bem chato com isso🎃</li>
+  <li>😋😁😎 Minhas linguagens são CSS,HTML E JS</li>
+</ul>
+
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align="center" alt="Python" height="30" width="40" 
 
